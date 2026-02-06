@@ -1,5 +1,13 @@
 # Cursor Landing Page Clone
 
+🔗 **Live Demo:**  
+
+https://gunjanbasak007.github.io/Web-Dev-Cohort-Assignment-Cursor-clone-/
+
+This project is a **static recreation of the Cursor website landing page** built using only **HTML and CSS** (no JavaScript), as instructed in the cohort guidelines.
+
+# Cursor Landing Page Clone
+
 This project is a **static recreation of the Cursor website landing page** built using only **HTML and CSS** (no JavaScript), as instructed in the cohort guidelines.
 
 The goal of this project was to carefully reproduce the **layout, spacing, colors, and visual hierarchy** of the original website while maintaining clean and structured code.
